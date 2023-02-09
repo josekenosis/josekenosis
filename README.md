@@ -3,13 +3,13 @@
 ##### Desenvolvedor Full-Stack | Manaus | BR
 
 <p>
-  <a href="https://www.linkedin.com/in/jose-kenosis/">
+  <a href="https://www.linkedin.com/in/jose-kenosis/" target="_blank">
     <img height="25px" alt="My Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:josekenosis@gmail.com">
+  <a href="mailto:josekenosis@gmail.com" target="_blank">
     <img height="25px" alt= "E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>        
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/josekenosis">
+  <a href="https://www.instagram.com/josekenosis" target="_blank">
     <img height="25px" alt= "E-mail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>        
   </a>&nbsp;&nbsp;
 </p>
