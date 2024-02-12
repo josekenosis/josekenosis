@@ -17,9 +17,7 @@
 ##
 
 - 🔭 Atualmente, trabalho com desenvolvimento fullstack em um instituto de P&D de forma híbrida em Manaus
-- 📚 Estudando em duas pós-graduações:
-    - 📱 Desenvolvimento Mobile
-    - ⚙️ Engenharia de Software
+- 📚 Estudando em uma pós-graduação em Inteligência Artificial com ênfase em Machine Learning na XP Education
 
 ##
 
